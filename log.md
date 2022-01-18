@@ -29,3 +29,7 @@ Look, it's not like I wish I had studied informatics back at Hiø (uni), or take
 log. Tue 18. 22:20
 
 It's my attention span, for "daily tasks" it's way shorter than others - as a clear benefit to us with adhd, I can hyperfocus! Its completly random, but when it hits it's deadly accurate. Give me any one issue, task, a ping-pong ball or a rock; I'm gonna nail it to the target as if it were sendt from God! On the other hand, give me two tasks to be solved at the same time, and I'm off chasing the third before I've even started. Rather comical, just don't mistake me for a clown, even if I do that myself sometimes. 
+
+log Tue 18. 23:35
+
+Like, this stuff gets me distracted, alot and often. The next vieo in the playlist, NTNU decides to take a full turn in their missleading video-description. The video is about user-input, instead we're making a penicle - which they call a star on multiple occations. It's not OCD (haven't got that on my list) - it's destracting! First it's a rainbow, fine ok let's make a rainbow the. Flowers - "a shite, well I really wanna learn so let's do it". Now, they've dragged religion into it! All because they literally couldn't tell right from left in their code!
