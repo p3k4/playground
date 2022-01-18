@@ -28,4 +28,4 @@ Look, it's not like I wish I had studied informatics back at Hiø (uni), or take
 
 log. Tue 18. 22:20
 
-It's my attention span, for "daily tasks" it's way shorter than others - as a clear benefit to us with adhd, I can hyperfocus! Its completly random, but when it hits it's deadly accurate. Give me any one issue, task, a ping-pong ball or a rock; I'm gonna nail it to the target as if it were sendt from God! On the other hand, give me two tasks to be solved at the same time, and I'm off chasing the third before I've even started. Rather comical, just don't mistake me for a clown, even if I do that myself sometime. 
+It's my attention span, for "daily tasks" it's way shorter than others - as a clear benefit to us with adhd, I can hyperfocus! Its completly random, but when it hits it's deadly accurate. Give me any one issue, task, a ping-pong ball or a rock; I'm gonna nail it to the target as if it were sendt from God! On the other hand, give me two tasks to be solved at the same time, and I'm off chasing the third before I've even started. Rather comical, just don't mistake me for a clown, even if I do that myself sometimes. 
