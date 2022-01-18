@@ -12,7 +12,7 @@ https://ibb.co/th4cpjM
 
 log. Tue 18. 20:20
 In next vid. "Stine" shows up with her colorful approach, making it clear python runs line-by-line.
-She tought me enough to make somewhat of a color-palette, or rainbow if you'd like:
+She tought me enough to make somewhat of a color-palette, or an inverted rainbow if you'd like:
 https://ibb.co/PjYwt0N
 
 Moving along..
