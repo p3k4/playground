@@ -1,4 +1,4 @@
-# playground
+# playground - python
 log. Tue 18. 18:28
 Maybe I should work on Python again, since it's rather new and popular language, sure - but it's always fun to make stuff, and I see potential for it to make Java rather useless down the line. The uni. NTNU here in Norway is pushing python as their "go to" language for newcomers to scripting. I see they have a playlist for the basics, and I'll pick up a e-book. Shame I don't have any beer or psychedelics around - I've found most intoxications makes great coding-companions.
 
@@ -9,3 +9,10 @@ Wonder why the Masters of NTNU couldn't includ a similar solution in their intro
 
 Hello-world.2.0
 https://ibb.co/th4cpjM
+
+log. Tue 18. 20:20
+In next vid. "Stine" shows up with her colorful approach, making it clear python runs line-by-line.
+She tought me enough to make somewhat of a color-palette, or rainbow if you'd like:
+https://ibb.co/PjYwt0N
+
+Moving along..
