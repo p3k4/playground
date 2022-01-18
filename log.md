@@ -21,3 +21,6 @@ https://ibb.co/PjYwt0N Moving along..
 log. Tue 18. 21:24
 
 Oh my, I'm making flowers now. It's the feeling you get playing as Enchantress in dota 2, each move makes you slightly more liberal, and you just wanna buy a Dagon to end the game early. https://ibb.co/hxGTgp2 Soo far, I'm glad I allready know most of the basics of programming. Python seems like a great start for newcomers indeed. I remember missing some visual "bloom" learning my first dedicated programing-language; Javascript.
+
+log. Tue 18. 21:57
+Look, it's not like I wish I had studied informatics back at Hiø (uni), or taken a more the more system-development approach. If anything I'd be a computer-engineer, though my mathskills are do-able, its mostly somwhere around garbage and absolute shite. What I lack in such cognitive skills, I make up in presentation and social skills I imagine. Not very common among those who also code, in my experience coders are generaly along the lines of chess-players: We hate to lose and fail, stubborn as hell - and if you make us tilt, we'll never forget your winning move and curse it to the day we go permanently afk. Not the type of person you'd wanna share lunch with, for good reason. Even back in your playgroup, took me half my life to figure that one out.
