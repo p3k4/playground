@@ -20,4 +20,4 @@ https://ibb.co/PjYwt0N Moving along..
 
 log. Tue 18. 21:24
 
-Oh my, I'm making flowers now. It's the feeling you get playing as Enchantress in dota 2, each move makes you slightly more liberal, and you just wanna buy a Dagon to end the game early. https://ibb.co/hxGTgp2 Soo far, I'm glad I allready know most of the basics of programming. Python seems like a great start for newcomers indeed. I remember missing some visual "bloom" learning my first dedicated programing-language Javascript.
+Oh my, I'm making flowers now. It's the feeling you get playing as Enchantress in dota 2, each move makes you slightly more liberal, and you just wanna buy a Dagon to end the game early. https://ibb.co/hxGTgp2 Soo far, I'm glad I allready know most of the basics of programming. Python seems like a great start for newcomers indeed. I remember missing some visual "bloom" learning my first dedicated programing-language; Javascript.
