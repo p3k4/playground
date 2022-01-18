@@ -17,3 +17,7 @@ log. Tue 18. 20:20
 In next vid. "Stine" shows up with her colorful approach, making it clear python runs line-by-line.
 She tought me enough to make somewhat of a color-palette, or an inverted rainbow if you'd like:
 https://ibb.co/PjYwt0N Moving along..
+
+log. Tue 18. 21:24
+
+Oh my, I'm making flowers now. It's the feeling you get playing as Enchantress in dota 2, each move makes you slightly more liberal, and you just wanna buy a Dagon to end the game early. https://ibb.co/hxGTgp2 Soo far, I'm glad I allready know most of the basics of programming. Python seems like a great start for newcomers indeed. I remember missing some visual "bloom" learning my first dedicated programing-language Javascript.
