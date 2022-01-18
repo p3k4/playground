@@ -6,3 +6,6 @@ log. Tue 18. 19:48
 First issue was importing the turtle library. First lesson from NTNU in their vid found here: https://bit.ly/3qEjFJj was to draw a circle using the turtle lib. 
 That function had to be fetched from the following package: python3-tkinter.x86_64
 Wonder why the Masters of NTNU couldn't includ a similar solution in their introduction vid.
+
+Hello-world.2.0
+https://ibb.co/th4cpjM
