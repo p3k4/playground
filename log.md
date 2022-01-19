@@ -52,3 +52,14 @@ Added more .py files to the repo. And wonder if I should keep it to the [NTNU pl
 
 if-elif-else. If I remember correctly, I remember learning "there's no else if", well - seems now there is. Here's my thoughts after seeing their 10th video: Turtle lib. is well-suited for kids to learn the most basics of programing, as all languages should have a playfull, well, playground. We did it lads, we're indeed making babysteps, neato! Just, don't kick the baby, not just yet - and keep the water for the next one. Flowcharts, oh my - that's my favorite invention! I gotta say I'm starting to like this girl "Stine". Just, don't ever put music in your vid. girl - it's messing up humans best discovery yet: My own bloody music!
 [Code for 10th vid.](https://github.com/p3k4/playground/blob/main/conditions.py)
+
+-- log Wed 19. 18:30
+
+Done more "turtleing", by that I mean drawing with Python and, trying to calculate the correct measurements for a shape called The Unicursal hexagram which I decided to draw before I got to bed last night. Found loads of fuzzy-wuzzy-ooh-magix-stuff online about the figure, I remember seeing it first back in high school - figured I could draw it as I'm starting to make slightly wider babysteps using the library. Yesterday/last night was real fun - didn't sleep much in the end and decided to get up around 7 this morning to pick up where I left off. Luckly, I had coffee. Currently I'm fine with the result. The shape is so that, every one calculation affects the entirety of other calculations - as it is unicursal (drawn in using one movement). 
+
+The [code](https://github.com/p3k4/playground/blob/main/hex_2.py) and [screenshot](https://ibb.co/QNbJYk1)
+
+
+
+
+
