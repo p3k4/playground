@@ -5,4 +5,5 @@ Some nights I may even have a drink or two, and keep logging either way.
 For you Brits, the code is commented in Norwegian.
 
 [All files](https://github.com/p3k4/playground/find/main)
+
 [log file](https://github.com/p3k4/playground/blob/main/log.md)
