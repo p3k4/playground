@@ -51,4 +51,4 @@ Added more .py files to the repo. And wonder if I should keep it to the [NTNU pl
 -- log Wed 19. 03:11
 
 if-elif-else. If I remember correctly, I remember learning "there's no else if", well - seems now there is. Here's my thoughts after seeing their 10th video: Turtle lib. is well-suited for kids to learn the most basics of programing, as all languages should have a playfull, well, playground. We did it lads, we're indeed making babysteps, neato! Just, don't kick the baby, not just yet - and keep the water for the next one. Flowcharts, oh my - that's my favorite invention! I gotta say I'm starting to like this girl "Stine". Just, don't ever put music in your vid. girl - it's messing up humans best discovery yet: My own bloody music!
-[Code for 10th vid.](/conditions.py)
+[Code for 10th vid.](https://github.com/p3k4/playground/blob/main/conditions.py)
