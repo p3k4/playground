@@ -1,7 +1,7 @@
 # Python log
 -- log. Tue 18. 18:28
 
-Maybe I should work on Python again, since it's rather new and popular language, sure - but it's always fun to make stuff, and I see potential for it to make Java rather useless down the line. The uni. NTNU here in Norway is pushing python as their "go to" language for newcomers to scripting. I see they have a playlist for the basics, and I'll pick up a e-book. Shame I don't have any beer or psychedelics around - I've found most intoxications makes great coding-companions.
+Maybe I should work on Python again, since it's rather new and popular language, sure - but it's always fun to make stuff, and I see potential for it to make Java rather useless down the line. The uni. NTNU here in Norway is pushing python as their "go to" language for newcomers to scripting. I see they have a playlist for the basics, and I'll pick up a e-book. Shame I don't have any beer around - I've found most intoxications makes great coding-companions.
 
 -- log. Tue 18. 19:48
 
@@ -41,3 +41,9 @@ The previous lesson reminded me that I have a playlist dedicated those who want 
 -- log Wed 19. 01:15
 
 Made some coffe to help me through the night and made it through their 8th video. Got me stuck for a bit, not because of the chellenge they gave. That was just fun. I couldn't get rid of the distraction it gave. That's exctly how it works with adhd. You have to deal with disctrations, often and alot! Doesn't make it easy over time at all, it's always difficult! When people deliberately makes us distracted because it's a funny reaction, it's like throwing gas at the fire. First it's a "Woa" thing, "my god, look at those flames!". Then, it takes a while for the burning to settle. A long time. Judging by the last note, just about an hour.
+
+
+-- log Wed 19. 02:15
+
+Their 9th vid. Was cool, haven't seen casting for a while (yes, phun intended).
+Added more .py files to the repo. And wonder if I should keep it to the [NTNU playlist](https://bit.ly/3KhEhz3) for tonight, shouldn't mess up my sleeping shedule too much doctor says. On the other hand, I did end up finding a [Python E-book](https://bit.ly/3nBQvsk). There were others, though they didn't seem to do much of a dive. Jep, let's finish the playlist first.
