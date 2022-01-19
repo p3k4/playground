@@ -37,3 +37,6 @@ Like, this stuff gets me distracted, alot and often. The next vieo in the playli
 log Tue 18. 00:00
 
 The previous lesson reminded me that I have a playlist dedicated those who want to learn to listen to Black metal. It's a skill, and I can't help but picture Satyricons album "Volcano" when scripting in Python. Seems fitting, I'll just share the playlist: https://open.spotify.com/playlist/2Y5FO9yQ5VOOFSW3CQm69V 
+
+log Wd 19. 01:15
+Made some coffe to help me through the night and made it through their 8th video. Got me stuck for a bit, not because of the chellenge they gave. That was just fun. I couldn't get rid of the distraction it gave. That's exctly how it works with adhd. You have to deal with disctrations, often and alot! Doesn't make it easy over time at all, it's always difficult! When people deliberately makes us distracted because it's a funny reaction, it's like throwing gas at the fire. First it's a "Woa" thing, "my god, look at those flames!". Then, it takes a while for the burning to settle. A long time. Judging by the last note, just about an hour.
