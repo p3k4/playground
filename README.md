@@ -4,6 +4,6 @@ It's open for everyone, and I appriciate you reading my log-file with a sense of
 Some nights I may even have a drink or two, and keep logging either way.
 For you Brits, the code is commented in Norwegian, so you should already know python to keep track.
 
-[All files](https://github.com/p3k4/playground/find/main)
+[All project files](https://github.com/p3k4/playground/find/main)
 
-[log file](https://github.com/p3k4/playground/blob/main/log.md)
+[project log](https://github.com/p3k4/playground/blob/main/log.md)
