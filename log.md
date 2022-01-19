@@ -36,7 +36,7 @@ Like, this stuff gets me distracted, alot and often. The next vieo in the playli
 
 -- log Tue 18. 00:00
 
-The previous lesson reminded me that I have a playlist dedicated those who want to learn to listen to Black metal. It's a skill, and I can't help but picture Satyricons album "Volcano" when scripting in Python. Seems fitting, I'll just share the playlist: https://open.spotify.com/playlist/2Y5FO9yQ5VOOFSW3CQm69V 
+The previous lesson reminded me that I have a playlist dedicated those who want to learn to listen to Black metal. It's a skill, and I can't help but picture Satyricons album "Volcano" when scripting in Python. Seems fitting, I'll just share the [playlist](https://open.spotify.com/playlist/2Y5FO9yQ5VOOFSW3CQm69V) 
 
 -- log Wed 19. 01:15
 
