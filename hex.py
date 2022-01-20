@@ -13,7 +13,7 @@ from math import *
 # y-verdi
 # b = int((r*sin((30))))
 #
-##-------------------------------------------------------------------------##
+##-----------------------------------------------------------------------------------------------##
 
 ## Omtrent riktig, men gjort ifra øyemål og dermed ikke presist.
 #globale variabler
@@ -24,29 +24,26 @@ pensize(t)
 #do stuff..
 for i in range(6):
 	if i==0:
-		left(60) # a - g
+		left(60) # punkt a
 		forward(l)
 		sleep(1)
 	elif i==1:
-		left(148) #g - j
+		left(148) # punkt b
 		forward(l)
 		sleep(1)
 	elif i==2:
-		right(150) # j - h
+		right(150) # punkt c
 		forward(l)
 		sleep(1)
 	elif i==3:
-		right(128) # h - d (ish..)
+		right(128) # punkt d
 		forward(l)
 		sleep(1)
 	elif i==4:
-		right(150) # d - i
+		right(150) # punkt e
 		forward(l)
 		sleep(1)
 	elif i== 5:
-		left(145) # i - a
+		left(145) # punkt f
 		forward(l)
 		sleep(15)
-	
-		
-
