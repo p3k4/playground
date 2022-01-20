@@ -3,7 +3,7 @@ from time import *
 from math import *
 
 ##-----------Forsøk på å finne koordinater til 30 graders vinkler basert på omriss-radius -------##
-#
+# https://bit.ly/3tKLuSr <-- Link, matematikker fra Youtube som viser dette som en mulig løsning.
 # a = x
 # b = y
 # r = sirkel radius.
@@ -15,7 +15,7 @@ from math import *
 #
 ##-------------------------------------------------------------------------##
 
-## Omtrent riktig, men ut ifra øyemål og dermed ikke presist.
+## Omtrent riktig, men gjort ifra øyemål og dermed ikke presist.
 #globale variabler
 t = 10
 l = 300
