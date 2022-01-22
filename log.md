@@ -68,3 +68,7 @@ That unicursal hexagram is messing with my head, those 30 degree agles to be exa
 
 I've found loads of [Python-assignments online](https://oppgaver.kidsakoder.no/python), wirting [my name](https://github.com/p3k4/playground/blob/main/navn.py) was the very first one. Of course the r's are written in uppercase and wouldn't usually be correct. Oh well. What supriced me is that if you wanna make a circle, drawn clockwise - the circles radius has to be written as a nagetive number. like this; circle(-25). I'll continue doing those, and sometime later make progress
 in the playlist NTNU had. Seems they want us to make a "snake" game in one of their final videoes. Thing is, I don't wanna do that yet, before I get comfortable doing the most basic stuff.
+
+-- log Sat 22. 23:00
+
+Next task was to write the first letter in my name as "double sized" with inner color fill. I decided to do my full name once again, just to practice even more - and also, it's ton of fun! Soo far I've made "Per Chris". Here's the [file](https://github.com/p3k4/playground/blob/main/navn_2.py), I'll upload the final and finished one tomorrow morning as a seperate file. Now, I wanna lay back and watch a movie before bed.
