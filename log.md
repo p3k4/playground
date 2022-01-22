@@ -63,3 +63,8 @@ The [code](https://github.com/p3k4/playground/blob/main/hex.py) and [screenshot]
 
 That unicursal hexagram is messing with my head, those 30 degree agles to be exact. In the [hex.py](https://github.com/p3k4/playground/blob/main/hex.py)-file there's a possible solution in the comment section, using sin and cos to find coordinates based on a radius which touches the outer angles of the figure. I don't know much about sin or cos, but I did get to assign values to variables after using the formulas. Well, when done on paper, I meassured lengths of the lines, and those aren't the same at all! This is very odd, as I was going the "all lines had to be the same length" direction.
 [A calculator](https://rechneronline.de/pi/unicursal-hexagram.php) I found spits out some magic-numbers, I'll have a look on those tomorrow. gn
+
+-- log Sat 22. 19:00
+
+I've found loads of [Python-assignments online](https://oppgaver.kidsakoder.no/python), wirting [my name](https://github.com/p3k4/playground/blob/main/navn.py) was the very first one. Of course the r's are written in uppercase and wouldn't usually be correct. Oh well. What supriced me is that if you wanna make a circle, drawn clockwise - the circles radius has to be written as a nagetive number. like this; circle(-25). I'll continue doing those, and sometime later make progress
+in the playlist NTNU had. Seems they want us to make a "snake" game in one of their final videoes. Thing is, I don't wanna do that yet, before I get comfortable doing the most basic stuff.
