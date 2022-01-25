@@ -72,3 +72,7 @@ in the playlist NTNU had. Seems they want us to make a "snake" game in one of th
 -- log Sat 22. 23:00
 
 Next task was to write the first letter in my name as "double sized" with inner color fill. I decided to do my full name once again, just to practice even more - and also, it's ton of fun! Soo far I've made "Per Chris". Here's the [file](https://github.com/p3k4/playground/blob/main/navn_2.py), I'll upload the final and finished one tomorrow morning as a seperate file. Now, I wanna lay back and watch some episodes of "Mr. Robot" before bedtime.
+
+-- log Sat 22. 23:00
+
+Soo, circles. I'm trying to get a hold on how to calculate them properly - I've uplaoded my second attemnt on making a joyfull smurf in turtle (still using python). I'm thinking about going back to scratch once again, though. It gets rather diffucult to focus doing it all in one go - and in between every attempt I do make progress.It's no wonder we make kids draw houses and horses in their playgroup, those things are quite simple. Hm, I can still make an "Iron Maiden" drawing..! Yes, good idea, or even better - Kiss! Kiss makeup, haha! xd
