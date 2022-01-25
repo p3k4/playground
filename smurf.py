@@ -6,8 +6,8 @@ from turtle import *
 # total bredde: 450px
 #total høyde: 490px
 
-# Tegnes i rekkefølge: venstre fot og bein, underliv, høyre bein, hale, mage, venstre arm, hode,
-#lufe, høre arm.
+# Tegnes i rekkefølge: venstre fot og bein, underliv, høyre bein, hale, arm 1, lue,
+# høre arm, mage, ansikts detaljer, etc.
 #
 
 
