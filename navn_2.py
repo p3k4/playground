@@ -4,7 +4,7 @@ from time import *
 
 #setup og startposisjon
 penup()
-goto(-300,0)
+goto(-500,0)
 pensize(5)
 ## Skrive navn med fylte bokstaver
 
@@ -264,9 +264,221 @@ forward(35)
 circle(5,90)
 forward(15)
 circle(5,90)
-forward(80)
+forward(60)
 end_fill()
-sleep(20)
+penup()
 
-sleep(5) #sleep
+#Nytt startpunkt
+forward(100)
+left(90)
+forward(30)
+
+## tegne "t"
+
+#første halvdel
+pendown()
+fillcolor('Grey')
+begin_fill()
+left(90)
+forward(25)
+left(90)
+circle(-5,180)
+forward(60)
+right(90)
+forward(15)
+left(90)
+forward(15)
+left(90)
+forward(15)
+right(90)
+forward(20)
+left(90)
+forward(30)
+
+#andre halvdel
+left(90)
+forward(20)
+right(90)
+forward(15)
+left(90)
+forward(15)
+left(90)
+forward(15)
+right(90)
+forward(60)
+circle(35,180)
+end_fill()
+penup()
+
+#ny startposisjon
+right(180)
+forward(30)
+left(90)
+forward(10)
+left(90)
+
+#liten "i"
+pendown()
+fillcolor('#3c6e91')
+begin_fill() #Fyll i både bokstav og sirkel over "i"
+forward(80)
+right(90)
+forward(30)
+left(90)
+penup()
+
+#sirkel over "i"
+forward(25)
+pendown()
+circle(15)
+penup()
+
+# fullføre bokstaven
+left(180)
+forward(25)
+pendown()
+left(90)
+right(90)
+forward(80)
+right(90)
+forward(30)
+end_fill() #Fyll i både bokstav og sirkel over "i"
+penup()
+
+#ny startposisjon
+right(180)
+forward(130) #avstand til neste bokstav
+left(90)
+forward(30)
+left(180) #startgrad
+
+##tegne liten "a"
+
+# start detailj
+pendown()
+fillcolor("#ffa60b")
+begin_fill()
+circle(-2,180)
+
+#strek høyre side
+forward(60)
+left(90)
+forward(20)
+left(90)
+forward(20)
+left(180)
+
+# sirkel-del 1
+circle(20,90)
+forward(20)
+circle(20,90)
+
+# sirkel-del 2
+forward(40)
+circle(28,90)
+forward(15)
+
+#sirkel-del 3
+circle(20,90)
+right(180)
+
+#siste del av detaljen
+circle(20,90)
+forward(5)
+circle(10,90)
+forward(20)
+
+left(90)
+forward(13)
+penup()
+end_fill()
+
+#sirkel i "a"
+forward(40)
+pendown()
+fillcolor('white')
+begin_fill()
+forward(10)
+circle(-10,90)
+forward(10)
+circle(-10,90)
+forward(5)
+circle(-10,90)
+forward(10)
+circle(-10,90)
+forward(10)
+end_fill()
+penup()
+
+#ny startposisjon
+left(90)
+forward(30)
+left(90)
+forward(80) #avstand til ny bokstav
+left(90)
+
+#tegne "n"
+pendown()
+fillcolor("#b975fc")
+begin_fill()
+
+#første strek opp og til høyre
+forward(90)
+right(90)
+forward(35)
+right(90)
+forward(20)
+right(180)
+
+#halv-sirkel
+circle(-20,180)
+forward(70) #strek til høyre
+right(90)
+
+#nederste del av linje 2 
+forward(30) 
+right(90)
+forward(40) #høyde
+circle(5,180) #sirkel
+forward(40)	#ned
+right(90)
+forward(35)
+end_fill()
+
+print("done")
+sleep(20) #sleep
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
