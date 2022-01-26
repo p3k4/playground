@@ -76,3 +76,7 @@ Next task was to write the first letter in my name as "double sized" with inner 
 -- log Sat 22. 23:00
 
 Soo, circles. I'm trying to get a hold on how to calculate them properly - I've uplaoded my second attemnt on making a joyfull smurf in turtle (still using python). I'm thinking about going back to scratch once again, though. It gets rather diffucult to focus doing it all in one go - and in between every attempt I do make progress.It's no wonder we make kids draw houses and horses in their playgroup, those things are quite simple. Hm, I can still make an "Iron Maiden" drawing..! Yes, good idea, or even better - Kiss! Kiss makeup, haha! xd
+
+-- log Sat 27. 00:45
+
+Haha, brilliant idea - I followed up and made [this](https://github.com/p3k4/playground/blob/main/kiss.py) - Gene, or - "Mr. Evil-incarnated", hilarious!
