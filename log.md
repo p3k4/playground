@@ -85,3 +85,6 @@ Haha, brilliant idea - I followed up and made [this](https://github.com/p3k4/pla
 
 I've slept all day soo, haven't done much at all. [Made a cow](https://github.com/p3k4/playground/blob/main/cow.py) though, moo! xd
 
+-- log Fri 28. 00:30
+
+I just couldn't help myself, that cow needed some [friends](https://github.com/p3k4/playground/blob/main/dyr.py)
