@@ -80,3 +80,8 @@ Soo, circles. I'm trying to get a hold on how to calculate them properly - I've 
 -- log Sat 27. 00:45
 
 Haha, brilliant idea - I followed up and made [this](https://github.com/p3k4/playground/blob/main/kiss.py) - Gene, or - "Mr. Evil-incarnated", hilarious!
+
+-- log Sat 27. 22:45
+
+I've slept all day soo, haven't done much at all. [Made a cow](https://github.com/p3k4/playground/blob/main/cow.py) though, moo! xd
+
