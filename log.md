@@ -88,3 +88,7 @@ I've slept all day soo, haven't done much at all. [Made a cow](https://github.co
 -- log Fri 28. 00:30
 
 I just couldn't help myself, that cow needed some [friends](https://github.com/p3k4/playground/blob/main/dyr.py)
+
+-- log Fri 28. 03:40
+
+Added more animals to [dyr.py](https://github.com/p3k4/playground/blob/main/dyr.py)
