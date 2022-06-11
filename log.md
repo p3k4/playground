@@ -1,7 +1,7 @@
 # Python log
 -- log. Tue 18. 18:28
 
-Maybe I should work on Python again, since it's rather new and popular language, sure - but it's always fun to make stuff, and I see potential for it to make Java rather useless down the line. The uni. NTNU here in Norway is pushing python as their "go to" language for newcomers to scripting. I see they have a [playlist on Youtube](https://www.youtube.com/watch?v=CW6jkSKRjCE&list=PLrIC8MB5SE_HY4zKDCYUAz4ugAXZMgQ3z&index=2) for the basics, and I'll pick up a e-book. Shame I don't have any beer around - I've found most intoxications makes great coding-companions!
+Maybe I should work on Python again, since it's rather new and popular language, sure - but it's always fun to make stuff, and I see potential for it to make Java rather useless down the line. The uni. NTNU here in Norway is pushing python as their "go to" language for newcomers to scripting. I see they have a [playlist on Youtube](https://www.youtube.com/watch?v=CW6jkSKRjCE&list=PLrIC8MB5SE_HY4zKDCYUAz4ugAXZMgQ3z&index=2) for the basics, and I'll pick up a e-book. Shame I don't have any beer around - I've found intoxications like alcohol make up for coding-companions, when in dire need. lol
 
 -- log. Tue 18. 19:48
 
@@ -92,3 +92,12 @@ I just couldn't help myself, that cow needed some [friends](https://github.com/p
 -- log Fri 28. 03:40
 
 Added more animals to [dyr.py](https://github.com/p3k4/playground/blob/main/dyr.py)
+
+-- log Sat 11. 14:15
+
+Woah, I sure had a long break. Sometimes life happens. Well, I've gained follower on Git, hurray! :D
+See, I've joined a discord server with other Norwegian devs. Stuff like that can be dangerous concerning attacks, but
+it's nice to have made contact with other locals, real life digital vikings doing the things! 
+Next steps I guess'll be work through a Python-oriented book. I'll keep logging it. I do realize however, I need to write less sentences and more code.
+
+
